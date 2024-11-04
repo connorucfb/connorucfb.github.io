@@ -4,7 +4,6 @@
 
 ## Education
 Global Institute of Sport | MSc Performance Analysis in Football. 
-
 Sheffield Hallam University | BSc Economics (First Class Honours).
 
 ## Work Experience
