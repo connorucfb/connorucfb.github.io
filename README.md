@@ -1,6 +1,6 @@
 # Football Analyst
 
-#### Technical Skills: Python, Statsbombpy, Tableau, Hudl Sportscode
+#### Technical Skills: Python, Statsbombpy, Tableau, Hudl Sportscode, Angles
 
 ## Education
 **MSc Performance Analysis in Football**, Global Institute of Sport (September 2023 – Present) 
