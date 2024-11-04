@@ -3,8 +3,9 @@
 #### Technical Skills: Python, Statsbombpy, Tableau, Hudl Sportscode, Angles
 
 ## Education
-Global Institute of Sport, MSc Performance Analysis in Football. 
-Sheffield Hallam University, BSc Economics (First Class Honours).
+#### Global Institute of Sport, MSc Performance Analysis in Football. 
+
+#### Sheffield Hallam University, BSc Economics (First Class Honours).
 
 ## Work Experience
 #### FIFA Tournament Football Analyst
