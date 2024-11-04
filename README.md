@@ -1,11 +1,13 @@
 # Football Analyst
 
-### Education
-Global Institute of Sport, MSc Performance Analysis in Football. 
+#### Technical Skills: Python, Statsbombpy, Tableau, Hudl Sportscode, Angles
 
-Sheffield Hallam University, BSc Economics (First Class Honours).
+## Education
+Global Institute of Sport | MSc Performance Analysis in Football. 
 
-### Professional Experience
+Sheffield Hallam University | BSc Economics (First Class Honours).
+
+## Work Experience
 FIFA Tournament Football Analyst
 - Conducting comprehensive data collection on player and goalkeeper performance in international football tournaments, aligned with the FIFA Football Language framework.
 
@@ -15,9 +17,5 @@ UCFB Academy Lead Performance Analyst
 Lincoln City FC Scout
 - Compiled comprehensive player scout reports, including statistical analysis, aiding the Head of Recruitment and 1st team coaching staff in strategic decision-making.
 
-Hallam Rangers JFC U9 & Goalkeeper Coach 
--	Designed and led engaging training sessions for the U9 team, while also developing goalkeepers (ages U7–U16) through technique-focused sessions that emphasised a learning environment.
-
-### Projects
-
-Aston Villa 
+## Projects
+### Aston Villa Strategy Report 2024
