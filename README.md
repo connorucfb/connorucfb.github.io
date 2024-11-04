@@ -17,4 +17,4 @@ Collected, interpreted, and presented data in team analysis sessions. Focusing o
 Compiled comprehensive player scout reports, including statistical analysis, aiding the Head of Recruitment and 1st team coaching staff in strategic decision-making.
 
 ## Projects
-#### Aston Villa Strategy Report 2024
+#### Aston Villa Strategy Report 
