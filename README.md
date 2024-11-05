@@ -20,4 +20,8 @@ Compiled comprehensive player scout reports, including statistical analysis, aid
 ## Projects
 #### Aston Villa Strategy Report 
 
-#### [MUFC Recruitment Dossier](/assets/img/PADevelopments.pdf)
+#### [Performance Analysis in Football Developments](/assets/img/PADevelopments.pdf)
+
+#### [MUFC Recruitment Dossier](/assets/img/MUFCRecruitmentDossier.pdf)
+
+#### [Influences on Bitcoin Prices and Volatility](/assets/img/BitcoinVolatility.pdf)
