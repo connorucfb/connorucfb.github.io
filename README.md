@@ -19,3 +19,5 @@ Compiled comprehensive player scout reports, including statistical analysis, aid
 
 ## Projects
 #### Aston Villa Strategy Report 
+
+#### [MUFC Recruitment Dossier](/assets/img/PADevelopments.pdf)
