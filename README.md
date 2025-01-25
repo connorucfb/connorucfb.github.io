@@ -18,9 +18,7 @@ Collected, interpreted, and presented data in team analysis sessions. Focusing o
 Compiled comprehensive player scout reports, including statistical analysis, aiding the Head of Recruitment and 1st team coaching staff in strategic decision-making.
 
 ## Projects
-#### Aston Villa Strategy Report 
-
-#### [Performance Analysis in Football Developments](/assets/img/PADevelopments.pdf)
+#### [Developments in Performance Analysis in Football ](/assets/img/PADevelopments.pdf)
 
 #### [MUFC Recruitment Dossier](/assets/img/MUFCRecruitmentDossier.pdf)
 
